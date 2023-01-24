@@ -1,0 +1,50 @@
+[
+        {
+            "name": "Fane",
+            "race": "Eternal",
+            "occupation": "Scholar",
+            "talents": "Undead, Ingenious",
+            "tags": "Scholar, Mystic",
+            "img": "../icon/Fane.webp"
+        },
+        {
+            "name": "Marcus Miles",
+            "race": "Dwarf",
+            "occupation": "Battlemage",
+            "talents": "Sturdy, Dwarven Guile",
+            "tags": "Noble, Barbarian",
+            "img": "../icon/Beast.webp"
+        },
+        {
+            "name": "Lohse",
+            "race": "Human",
+            "occupation": "Entertainer",
+            "talents": "Thrifty, Ingenious",
+            "tags": "Jester, Mystic",
+            "img": "../icon/Lohse.webp"
+        },
+        {
+            "name": "Ifan ben-Mezd",
+            "race": "Human",
+            "occupation": "Mercenary",
+            "talents": "Thrifty, Ingenious",
+            "tags": "Soldier, Outlaw",
+            "img": "../icon/Ifan.webp"
+        },
+        {
+            "name": "The Red Prince",
+            "race": "Lizard",
+            "occupation": "Crown Prince, General",
+            "talents": "Opportunist, Sophisticated, Spellsong",
+            "tags": "/",
+            "img": "../icon/TheRedPrince.webp"
+        },
+        {
+            "name": "Sebille Kaleran",
+            "race": "Elf",
+            "occupation": "Prime Scion",
+            "talents": "Ancestral Knowledge, Corpse Eater",
+            "tags": "Soldier, Outlaw",
+            "img": "../icon/Sebille.webp"
+        }
+]
